@@ -1,0 +1,6 @@
+train: ../train/images 
+val: ../valid/images
+test: ../test/images
+
+nc: 7
+names: ['Olive Fruit Fly', 'Tuberculosis', 'Black Scale', 'Healthy', 'Peacock Eye', 'Psyllid', 'non_olive'] 
